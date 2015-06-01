@@ -6,8 +6,3 @@ date:   2015-05-30 14:23:22
 categories: orga
 ---
 Die Planungen schreiten voran. Nachdem jetzt endlich der Antrag für die Förderung beim BMBF eingereicht ist, steht auch die Homepage in den Startlöchern. Im Laufe des Jahres posten wir hier den aktuellen Stand. Schaut also regelmäßig mal vorbei.
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

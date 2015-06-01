@@ -4,7 +4,7 @@ layout: default
 
 <nav>
  <ul>
-  <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/team.html">Team</a></li>
   <li><a href="{{site.baseurl}}/gastgeber/fachschaft.html">Fachschaft</a></li>
  </ul>
 </nav>

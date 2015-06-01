@@ -7,9 +7,9 @@ layout: default
 Informationen zur Tagung und mehr.</p>
 
 <ul>
- {% for post in site.posts limit:2%}
+ {% for post in site.posts limit:5%}
  <li>
-  <a href="">{{post.title}}</a>
+  <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   <p>{{post.meta}}</p>
  </li>
  {% endfor %}

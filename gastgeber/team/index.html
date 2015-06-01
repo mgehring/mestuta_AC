@@ -1,0 +1,14 @@
+---
+layout: host
+---
+
+<h1>Das Orga-Team der Tagung</h1>
+
+Ansprechpartner und Bilder.
+
+<h2>Das Team</h2>
+{% for person in site.categories.team %}
+ <ul>
+ <li><a href"">{{team.name}}</a></li>
+ </ul>
+{% endfor %}

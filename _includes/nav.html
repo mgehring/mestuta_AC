@@ -1,7 +1,7 @@
  <nav>
   <ul class="nav {{include.navclass}}">
    <li><a href="{{site.baseurl}}/index.html" class="{% if page.url == '/index.html' %}current{% endif %}">Home</a></li>
-   <li><a href="{{site.baseurl}}/gastgeber.html" class="{% if page.url == '/gastgeber.html' %}current{% endif %}">Gastgeber</a></li>
+   <li><a href="{{site.baseurl}}/gastgeber.html" class="{% if page.url contains '/gastgeber/' %}current{% endif %}">Gastgeber</a></li>
    <li><a href="{{site.baseurl}}/sponsoren.html" class="{% if page.url == '/sponsoren.html' %}current{% endif %}">Unterstützer</a></li>
    <li><a href="{{site.baseurl}}/programm.html" class="{% if page.url == '/programm.html' %}current{% endif %}">Programm</a></li>
    <li><a href="{{site.baseurl}}/kontakt.html" class="{% if page.url == '/kontakt.html' %}current{% endif %}">Kontakt</a></li>
