@@ -1,6 +1,5 @@
-<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
  <nav>
-  <ul>
+  <ul class="nav">
    <li><a href="{{site.baseurl}}/index.html" class="{% if page.url == '/index.html' %}current{% endif %}">Home</a></li>
    <li><a href="{{site.baseurl}}/gastgeber.html" class="{% if page.url == '/gastgeber.html' %}current{% endif %}">Gastgeber</a></li>
    <li><a href="{{site.baseurl}}/sponsoren.html" class="{% if page.url == '/sponsoren.html' %}current{% endif %}">Unterstützer</a></li>

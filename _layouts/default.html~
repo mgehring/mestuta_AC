@@ -3,6 +3,7 @@
 <head>
  <meta charset="utf8">
  <title>Medienstudierendentagung in Aachen</title>
+ <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body>
 
