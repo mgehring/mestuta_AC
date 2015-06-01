@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de_DE">
+<head>
+ <meta charset="utf8">
+ <title>Medienstudierendentagung in Aachen</title>
+</head>
+<body>
+
+<header>
+<h1>Medienstudierendentagung in Aachen</h1>
+ <nav>
+  <ul>
+   <li><a href="{{site.baseurl}}/index.html">Home</li>
+   <li><a href="{{site.baseurl}}/gastgeber.html">Gastgeber</li>
+   <li><a href="{{site.baseurl}}/sponsoren.html">Unterstützer</li>
+   <li><a href="{{site.baseurl}}/programm.html">Programm</li>
+   <li><a href="{{site.baseurl}}/kontakt.html">Kontakt</li>
+  </ul>
+</nav>
+</header>
+
+{{content}}
+
+<footer>
+FS Kowi RWTH Aachen
+</footer>
+
+</body>
+</html>
