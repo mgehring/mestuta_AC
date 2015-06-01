@@ -22,5 +22,14 @@ html {
 }
 
 .nav-top {
- font.size: 1.25rem;
+ font-size: 1.25rem;
+}
+
+footer {
+margin: 0;
+padding: 0; 
+ background-color: #00909B;
+width: 100%;
+            bottom: 0;
+            position: fixed;
 }
