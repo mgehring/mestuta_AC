@@ -6,3 +6,12 @@ layout: default
 <p>Das hier ist die Tagungshomepage für die Medienstudierendentagung in Aachen. Sie enthält alle wichtigen 
 Informationen zur Tagung und mehr.</p>
 
+<ul>
+ {% for post in site.posts limit:5%}
+ <li>
+  <a href="">{{post.title}}</a>
+  <p>{{post.meta}}</p>
+ </li>
+ {% endfor %}
+</ul>
+
