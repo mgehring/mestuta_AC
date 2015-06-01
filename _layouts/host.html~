@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<nav>
+ <ul>
+  <li><a href="{{site.baseurl}}/gastgeber/team.html"></a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/fachschaft.html"></a></li>
+ </ul>
+</nav>
+
+{{content}}
