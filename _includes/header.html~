@@ -1,0 +1,10 @@
+<header>
+  <a href="/">
+          <img src="/img/fs_logo.png" width="100" height="100" alt="Fachschafts Logo">
+  </a>
+
+<h1>Medienstudierendentagung in Aachen</h1>
+{% include nav.html navclass='nav-top'%}
+</header>      
+
+

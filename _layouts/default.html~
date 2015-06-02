@@ -7,14 +7,12 @@
 </head>
 <body>
 
-<header>
-<h1>Medienstudierendentagung in Aachen</h1>
-{% include nav.html %}
-</header>
+{% include header.html navclass='header' %}
 
 {{content}}
 
 <footer>
+{% include nav.html navclass='nav-bottom'%}
 FS Kowi RWTH Aachen
 </footer>
 
