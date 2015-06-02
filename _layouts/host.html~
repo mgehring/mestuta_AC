@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<nav>
+<nav class="nav-sec">
  <ul>
   <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
   <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html">Fachschaft</a></li>
