@@ -52,7 +52,7 @@ padding:10px;
 
 #footer {
     background-color:#00909B;
-    border-radius: 25px;
+    border-radius: 10px;
     color:white;
     clear:both;
     text-align:center;
