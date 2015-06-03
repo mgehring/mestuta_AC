@@ -6,7 +6,7 @@
  <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 <style>
 #header {
- background-color: blue;
+ background-color: #fff;
 float: top;
 height: 100%;
 width: 80%;
@@ -21,9 +21,11 @@ padding:10px;
 
 #nav {
     line-height:30px;
+    border-radius: 25px;
     background-color:#eeeeee;
+    border: 3px solid #000;
     height:100%;
-    width:25%;
+    width:22%;
     float:right;
     padding:5px;	      
 }
@@ -31,19 +33,31 @@ padding:10px;
 #content-nav {
     line-height:30px;
     background-color:#eeeeee;
+    border-radius: 25px;
     height:100%;
     width:70%;
     float:left;
-    padding:20px;      	      
+    padding:20px; 
+    margin-bottom: 10px;     	      
+}
+
+#content {
+ line-height:30px;
+    background-color:#eeeeee;
+    border-radius: 25px;
+    float:left;
+    padding:20px; 
+    margin-bottom: 10px; 
 }
 
 #footer {
     background-color:#00909B;
+    border-radius: 25px;
     color:white;
     clear:both;
     text-align:center;
-float: bottom;
-   padding:5px;	 	 
+    float: bottom;
+    padding:5px;	 	 
 }
 </style>
 </head>

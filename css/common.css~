@@ -6,12 +6,30 @@ html {
 
 a {
 text-decoration: none;
+padding: 5px;
+}
+
+a:visited {
+color: #00909B;
+}
+
+a:hover{
+background-color: #00909B;
+color: #fff;
+padding: 5px;
 }
 
 .current {
  background-color: #00909B;
  color: #fff;
+ padding: 5px;
 }
+
+.img-link{
+ text-decoration: none;
+ padding: 0px;
+}
+
 
 .nav {
  margin: 0;

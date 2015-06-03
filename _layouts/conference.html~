@@ -4,10 +4,10 @@ layout: default
 
 <nav class="nav-sec">
  <ul>
-  <li><a href="{{site.baseurl}}/programm/ablauf/index.html">Ablaufplan</a></li>
-  <li><a href="{{site.baseurl}}/programm/aks/index.html">Arbeitskreise und Programm</a></li>
-  <li><a href="{{site.baseurl}}/programm/anmeldung/index.html">Anmeldung</a></li>
-  <li><a href="{{site.baseurl}}/programm/map/index.html">Orts- und Raumplan</a></li>
+  <li><a href="{{site.baseurl}}/programm/ablauf/">Ablaufplan</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/">Arbeitskreise und Programm</a></li>
+  <li><a href="{{site.baseurl}}/programm/anmeldung/">Anmeldung</a></li>
+  <li><a href="{{site.baseurl}}/programm/map/">Orts- und Raumplan</a></li>
  </ul>
 </nav>
 
