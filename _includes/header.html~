@@ -1,13 +1,15 @@
-<div id="header">
-<div id="logo">
-  <a href="/" class='img-link'>
-          <img src="{{site.baseurl}}/img/fs_logo.png" width="80" height="80" alt="Fachschafts Logo">
-  </a>
+<div class="grid">
+<!--<div id="header">-->
+<div class="unit one-fifth">
+  <h1>
+      <a href="/" class='img-link'>
+        <img src="{{site.baseurl}}/img/fs_logo.png" width="80" height="80" alt="Fachschafts Logo">
+      </a>
+  </h1>
 </div>
-<strong>Medienstudierendentagung in Aachen</strong>
-<div>
+<div class="unit four-fifth">
 {% include nav.html navclass='nav-top'%}
 </div>
-</div>      
-
+</div>    
+<!--</div> -->
 
