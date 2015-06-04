@@ -1,12 +1,13 @@
 <div id="header">
 <div id="logo">
-  <a href="/">
+  <a href="/" class='img-link'>
           <img src="{{site.baseurl}}/img/fs_logo.png" width="80" height="80" alt="Fachschafts Logo">
   </a>
 </div>
-<h1>Medienstudierendentagung in Aachen</h1>
+<strong>Medienstudierendentagung in Aachen</strong>
+<div>
 {% include nav.html navclass='nav-top'%}
-
+</div>
 </div>      
 
 

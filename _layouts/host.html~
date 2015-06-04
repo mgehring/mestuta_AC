@@ -13,6 +13,6 @@ layout: default
 </nav>
 </div>
 
-<div>
+<div id="content-nav">
 {{content}}
 </div>

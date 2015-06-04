@@ -41,13 +41,10 @@ color: #fff;
  padding: 5px;
 }
 
-
-
 .img-link a{
  text-decoration: none;
  padding: 0px;
 }
-
 
 .nav {
  margin: 0;

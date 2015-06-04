@@ -1,24 +1,3 @@
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-html {
- margin: 0;
- padding: 0;
- font: normal 100%/1.4 Arial, serif;
-}
-
-a {
-color: #00909B;
- text-decoration: none;
-}
-
-a:visited {
-color: #00909B;
-}
-
 .nav-top a{
  padding: 5px;
  border-radius: 10px;
@@ -41,13 +20,10 @@ color: #fff;
  padding: 5px;
 }
 
-
-
 .img-link a{
  text-decoration: none;
  padding: 0px;
 }
-
 
 .nav {
  margin: 0;
