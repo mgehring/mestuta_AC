@@ -19,10 +19,11 @@ a:visited {
 color: #00909B;
 }
 
-person {
-background-color: #fff;
-padding: 10px;
-float: left;
-margin: 5px;
-}
 
+.current {
+a {
+ background-color: #00909B;
+ color: #fff;
+ padding: 5px;
+}
+}

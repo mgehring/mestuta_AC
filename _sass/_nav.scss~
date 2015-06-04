@@ -10,14 +10,9 @@ color: #fff;
 padding: 5px;
 }
 
+
 .nav-bottom a:visited{
 color: #fff;
-}
-
-.current a {
- background-color: #00909B;
- color: #fff;
- padding: 5px;
 }
 
 .img-link a{
@@ -29,6 +24,14 @@ color: #fff;
  margin: 0;
  padding: 0;
  list-style-type: none;
+ &.current {
+
+      a {
+        background-color: #fc0;
+        color: #222;
+        text-shadow: 0 1px 0 rgba(255,255,255,.3);
+      }
+    }
 }
 
 .nav > li {
@@ -71,17 +74,14 @@ footer {
     margin-right: 10px;
 
     a {
-      @include border-radius(5px);
       font-weight: 900;
       font-size: 14px;
       padding: 0.5em 1em;
       text-shadow: none;
       text-transform: uppercase;
-      @include transition(all .25s);
-
+     
       &:hover {
         background-color: #252525;
-        @include box-shadow(inset 0 1px 3px rgba(0,0,0,.5), 0 1px 0 rgba(255,255,255,.1));
         text-shadow: 0 1px 3px rgba(0,0,0,.5);
       }
     }
@@ -91,7 +91,6 @@ footer {
       a {
         background-color: #fc0;
         color: #222;
-        @include box-shadow(inset 0 1px 0 rgba(255,255,255,.5), 0 1px 5px rgba(0,0,0,.5));
         text-shadow: 0 1px 0 rgba(255,255,255,.3);
       }
     }
