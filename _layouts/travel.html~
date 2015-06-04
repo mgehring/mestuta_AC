@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-
+<div id="nav">
 <nav class="nav-sec">
  <ul>
  <li><a href="{{site.baseurl}}/kontakt/">Kontakt</a></li>
   <li><a href="{{site.baseurl}}/kontakt/anreise/">Anreise</a></li>
  </ul>
 </nav>
+</div>
 
+<div id="content-nav">
 {{content}}
+</div>
