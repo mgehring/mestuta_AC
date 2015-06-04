@@ -7,11 +7,13 @@ layout: default
 <div class="grid">
 
 <div class="unit four-fifths" id="content-nav">
+<!--<div class="unit four-fifths">-->
 <article>
 {{content}}
 <article>
 </div>
-<div class="unit one-fifth" id="nav">
+<div class="unit one-fifth" id="content-nav">
+<!--<div class="unit one-fifth">-->
 <aside>
 {% if page.url contains '/gastgeber/' %}{% include sec-gast.html %}{% endif %}
 {% if page.url contains '/kontakt/' %}{% include sec-kontakt.html %}{% endif %}

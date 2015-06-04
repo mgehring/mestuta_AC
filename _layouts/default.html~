@@ -5,7 +5,6 @@
  <title>Medienstudierendentagung in Aachen</title>
  <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 <style>
-
 #aside{
 float: right;
 }
