@@ -1,0 +1,7 @@
+<nav class="nav-sec">
+ <ul>
+  <li><a href="{{site.baseurl}}/programm/ablauf/">Akkreditierung</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/">Studium und Lehre</a></li>
+  <li><a href="{{site.baseurl}}/programm/programm/">MeStuTa und HoPo</a></li>
+ </ul>
+</nav>
