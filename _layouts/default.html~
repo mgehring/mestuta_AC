@@ -13,8 +13,8 @@ float: right;
     line-height:30px;
     border-radius: 25px;
     background-color:#eeeeee;
-    border: 3px solid #000;
-    clear: both;	      
+    border: 3px solid #000;	
+    margin: 10px;      
 }
 
 #content-nav {
@@ -24,7 +24,7 @@ float: right;
     height:100%;
     float:left;
     padding:20px; 
-margin: 0 auto;
+    margin: 10px;
     margin-bottom: 10px;     	      
 }
 
@@ -33,8 +33,6 @@ margin: 0 auto;
     background-color:#eeeeee;
     border-radius: 25px;
     float:left;
-    padding:20px; 
-    margin-bottom: 10px; 
 }
 
 #footer {
@@ -50,12 +48,14 @@ margin: 0 auto;
 </head>
 
 <body class="wrap">
+<div class="grid">
 
 {% include header.html navclass='header' %}
 
 {{content}}
 
 {% include footer.html navclass='footer' %}
+</div>
 
 </body>
 </html>
