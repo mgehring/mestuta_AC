@@ -5,13 +5,6 @@
  <title>Medienstudierendentagung in Aachen</title>
  <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 <style>
-#header {
- background-color: #fff;
-float: top;
-height: 100%;
-width: 80%;
-padding: 10px;
-}
 
 #aside{
 float: right;
@@ -57,7 +50,7 @@ margin: 0 auto;
 </style>
 </head>
 
-<body>
+<body class="wrap">
 
 {% include header.html navclass='header' %}
 

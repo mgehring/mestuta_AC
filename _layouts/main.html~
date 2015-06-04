@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<div id="content" class="unit whole">
+<div id="content">
 {{content}}
 </div>
