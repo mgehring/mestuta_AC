@@ -6,10 +6,9 @@
 
 <nav class="nav-sec">
  <ul>
-  <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html">Fachschaft</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/isk/index.html">Fakultät</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/rwth/index.html">RWTH Aachen</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/aachen/index.html">Stadt Aachen</a></li>
+  <li><a href="{{site.baseurl}}/programm/ablauf/">Ablaufplan</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/">Arbeitskreise und Programm</a></li>
+  <li><a href="{{site.baseurl}}/programm/anmeldung/">Anmeldung</a></li>
+  <li><a href="{{site.baseurl}}/programm/map/">Orts- und Raumplan</a></li>
  </ul>
 </nav>

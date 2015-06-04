@@ -1,14 +1,40 @@
 ---
-layout: conference
+layout: host
 ---
 
-<h1>Das Programm</h1>
+<h1>Arbeitskreise</h1>
+<div class="unit whole">
+<h2>Schwerpunktthema: Akkreditierung</h2>
+{% for aks in site.categories.ak-main %}
+<div class="ak unit w-4-5">
+<h3>{{aks.title}}</h3>
+<p>Angefragter Referent: {{aks.referent}}</p>
+<p><strong>Beschreibung:</strong> {{aks.meta}}</p>
+<p>
+</div>
+{% endfor %}
+</div>
 
-<h2>Rahmenprogramm</h2>
+<div class="unit whole">
+<h2>Studium & Lehre / Fachschaftsarbeit</h2>
+{% for aks in site.categories.ak-lehre %}
+<div class="ak unit w-4-5">
+<h3>{{aks.title}}</h3>
+<p>Angefragter Referent: {{aks.referent}}</p>
+<p><strong>Beschreibung:</strong> {{aks.meta}}</p>
+<p>
+</div>
+{% endfor %}
+</div>
 
-<h2>Arbeitskreise</h2>
-
-<h3>Schwerpunktthema: Akkreditierung</h3>
-
-<h3>Thema 1</h3>
-<h3>Thema 2</h3>
+<div class="unit whole">
+<h2>Struktur / Überregionale Hochschulpolitik</h2>
+{% for aks in site.categories.ak-tagung %}
+<div class="ak unit w-4-5">
+<h3>{{aks.title}}</h3>
+<p>Angefragter Referent: {{aks.referent}}</p>
+<p><strong>Beschreibung:</strong> {{aks.meta}}</p>
+<p>
+</div>
+{% endfor %}
+</div>
