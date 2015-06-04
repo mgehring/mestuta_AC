@@ -33,6 +33,9 @@ float: right;
     background-color:#eeeeee;
     border-radius: 25px;
     float:left;
+    padding:20px; 
+    margin: 10px;
+    margin-bottom: 10px; 
 }
 
 #footer {
@@ -43,6 +46,14 @@ float: right;
     float: bottom;
     padding:5px;
     border-radius: 10px; 	 
+}
+
+#person {
+background-color: #fff;
+padding: 10px;
+align: center;
+margin: 5px;
+border-radius: 10px;
 }
 </style>
 </head>

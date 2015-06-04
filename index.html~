@@ -10,6 +10,7 @@ Informationen zur Tagung und mehr.</p>
  {% for post in site.categories.news limit:5%}
  <li>
   <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+  {{post.date}}
   <p>{{post.meta}}</p>
  </li>
  {% endfor %}
