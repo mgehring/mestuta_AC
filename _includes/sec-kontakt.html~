@@ -6,10 +6,7 @@
 
 <nav class="nav-sec">
  <ul>
-  <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html">Fachschaft</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/isk/index.html">Fakultät</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/rwth/index.html">RWTH Aachen</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/aachen/index.html">Stadt Aachen</a></li>
+ <li><a href="{{site.baseurl}}/kontakt/">Kontakt</a></li>
+  <li><a href="{{site.baseurl}}/kontakt/anreise/">Anreise</a></li>
  </ul>
 </nav>

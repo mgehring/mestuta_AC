@@ -7,7 +7,8 @@
 <nav class="nav-sec">
  <ul>
   <li><a href="{{site.baseurl}}/programm/ablauf/">Ablaufplan</a></li>
-  <li><a href="{{site.baseurl}}/programm/aks/">Arbeitskreise und Programm</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/">Arbeitskreise</a></li>
+<li><a href="{{site.baseurl}}/programm/programm/">Rahmenprogramm</a></li>
   <li><a href="{{site.baseurl}}/programm/anmeldung/">Anmeldung</a></li>
   <li><a href="{{site.baseurl}}/programm/map/">Orts- und Raumplan</a></li>
  </ul>
