@@ -11,23 +11,19 @@ html {
 }
 
 p {
- text-align: center;
+ text-align: justify;
 }
 
 a {
 color: #00909B;
  text-decoration: none;
+&.current{ 
+background-color: #00909B;
+ color: #fff;
+ padding: 5px;
+}
 }
 
 a:visited {
 color: #00909B;
-}
-
-
-.current {
-a {
- background-color: #00909B;
- color: #fff;
- padding: 5px;
-}
 }
