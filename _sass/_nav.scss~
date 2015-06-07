@@ -19,7 +19,11 @@ text-shadow: 0 1px 3px #000;
 }
 
 
-.nav-bottom a:visited{
+.nav-bottom a
+&:hover{
+text-shadow: 0 1px 3px #000;
+}
+&:visited{
 color: #fff;
 }
 
@@ -64,6 +68,7 @@ footer {
  font-weight: default;
 a:hover{
 color: #fff;
+text-shadow: 0 1px 3px #000;
 }
 }
 

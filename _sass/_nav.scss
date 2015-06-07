@@ -19,9 +19,13 @@ text-shadow: 0 1px 3px #000;
 }
 
 
-.nav-bottom a:visited{
-color: #fff;
+.nav-bottom a{
+&:hover{
+text-shadow: 0 1px 3px #000;
 }
+&:visited{
+color: #fff;
+}}
 
 .img-link a{
  text-decoration: none;
