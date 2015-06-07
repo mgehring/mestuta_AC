@@ -17,11 +17,23 @@ p {
 a {
 color: #00909B;
  text-decoration: none;
+&:hover{
+  color: #fff;
+  text-shadow: 0 1px 3px #000;
+}
+&:visited{color: #00909B;}
 }
 
-a:visited {
+.link {
 color: #00909B;
+ text-decoration: none;
+&:hover{
+  color: #fff;
+  text-shadow: 0 1px 3px #000;
 }
+&:visited{color: #00909B;}
+}
+
 
 
 footer {
@@ -31,5 +43,4 @@ footer {
   color: #fff;
   width: 100%;
   bottom: 0;
-box-shadow:         3px 3px 5px 6px #ccc;
 }
