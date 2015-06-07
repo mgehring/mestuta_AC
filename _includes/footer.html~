@@ -1,7 +1,6 @@
 
-<div id="footer">
+<div id="footer" class="footer">
 {% include nav.html navclass='nav-bottom'%}
-(c) Fachschaft Kommunikationswissenschaft der RWTH Aachen
 </div>
 
 
