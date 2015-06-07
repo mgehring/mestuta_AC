@@ -17,11 +17,6 @@ p {
 a {
 color: #00909B;
  text-decoration: none;
-&.current{ 
-background-color: #00909B;
- color: #fff;
- padding: 5px;
-}
 }
 
 a:visited {
@@ -37,7 +32,4 @@ footer {
   color: #fff;
   width: 100%;
   bottom: 0;
-  position: fixed;
 }
-=======
->>>>>>> parent of fda9bbd... Bilder bei Person zugefügt.
