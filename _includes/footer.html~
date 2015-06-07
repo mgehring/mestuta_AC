@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 
 <div id="footer">
 {% include nav.html navclass='nav-bottom'%}
 (c) Fachschaft Kommunikationswissenschaft der RWTH Aachen
+=======
+<div class="footer">
+{% include nav.html navclass='nav-bottom'%}
+FS Kowi RWTH Aachen
+>>>>>>> parent of fda9bbd... Bilder bei Person zugefügt.
 </div>
-
 

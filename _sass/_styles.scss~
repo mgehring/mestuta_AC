@@ -4,4 +4,10 @@ float: left;
 padding:10px;
 }
 
+.person {
+background-color: #fff;
+padding: 10px;
+float: left;
+margin: 5px;
 
+}

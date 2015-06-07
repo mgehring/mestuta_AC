@@ -8,14 +8,9 @@ Ansprechpartner und Bilder.
 
 <h2>Das Team</h2>
 {% for person in site.categories.team %}
-<div class="unit" style="width:45%" id="person" class="person">
-<div float="left">
+<div class="unit w-1-2" id="person">
 <p><strong>Name: {{person.name}}</strong></p>
 <p>Aufgaben: {{person.job}}</p>
 <p>Email: {{person.mail}}@fskowi.rwth-aachen.de</p>
-</div>
-<div float="right">
-<img src="{{site.baseurl}}/img/wand.png" width="65px" height="65px">
-</div>
 </div>
 {% endfor %}
