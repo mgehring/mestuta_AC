@@ -15,22 +15,11 @@ p {
 }
 
 a {
-color: #00909B;
+ color: #00909B;
  text-decoration: none;
 &:hover{
   color: #fff;
-  text-shadow: 0 1px 3px #000;
-}
-&:visited{color: #00909B;}
-}
-
-.link {
-color: #00909B;
- text-decoration: none;
-&:hover{
-  color: #fff;
-  text-shadow: 0 1px 3px #000;
-}
+  text-shadow: 0 1px 3px #000;}
 &:visited{color: #00909B;}
 }
 
