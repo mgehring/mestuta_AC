@@ -1,18 +1,17 @@
 .nav-top a{
- padding: 5px;
+ padding: 7px;
  border-radius: 10px;
  color: #00909B;
 &.current{ 
 background-color: #00909B;
  color: #fff;
- padding: 5px;
 }
 }
 
 .nav-top a:hover{
 background-color: #00909B;
 color: #fff;
-padding: 5px;
+padding: 7px;
 }
 
 
@@ -42,16 +41,6 @@ color: #fff;
 
 .nav-bottom{
 	background-color: #00909B;
-}
-
-
-footer {
-  margin: 0;
-  padding: 0; 
-  background-color: #00909B;
-  width: 100%;
-  bottom: 0;
-  position: fixed;
 }
 
 .nav-sec {

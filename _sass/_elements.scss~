@@ -1,7 +1,12 @@
+.person {
+ background-color: #fff;
+
+
+}
+
 .logo {
 background-color: #fff;
 float: left;
 padding:10px;
 }
-
 

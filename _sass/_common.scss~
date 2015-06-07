@@ -17,13 +17,20 @@ p {
 a {
 color: #00909B;
  text-decoration: none;
-&.current{ 
-background-color: #00909B;
- color: #fff;
- padding: 5px;
-}
 }
 
 a:visited {
 color: #00909B;
+}
+
+
+footer {
+  margin: 0;
+  padding: 0; 
+  background-color: #00909B;
+  color: #fff;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+  clear: both;
 }
