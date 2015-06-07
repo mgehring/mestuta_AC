@@ -10,7 +10,8 @@
     border-radius: 25px;
     background-color:#eeeeee;
     border: 3px solid #000;	
-    margin: 10px;      
+    margin: 10px;   
+    box-shadow: 25px;   
 }
 
 #content-nav {
@@ -44,6 +45,7 @@ color: #fff;
 }
 
 #person {
+background-color: #fff;
 padding: 10px;
  margin-left: auto;
     margin-right: auto;
