@@ -13,6 +13,7 @@ background-color: #00909B;
 background-color: #00909B;
 color: #fff;
 padding: 5px;
+box-shadow:         2px #ccc;
 }
 
 
@@ -59,6 +60,9 @@ footer {
  padding: 0;
  list-style-type: none;
  font-weight: default;
+a:hover{
+color: #fff;
+}
 }
 
 
