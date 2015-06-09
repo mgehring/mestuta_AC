@@ -1,7 +1,7 @@
 <nav>
  <ul class="nav-sec">
-  <li><a href="{{site.baseurl}}/programm/aks/akkreditierung">Akkreditierung</a></li>
-  <li><a href="{{site.baseurl}}/programm/aks/studium">Studium und Lehre</a></li>
-  <li><a href="{{site.baseurl}}/programm/aks/mestuta/">MeStuTa und HoPo</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/akkreditierung" class="{% if page.url contains '/akkreditierung/' %}current{% endif %}">Akkreditierung</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/studium" class="{% if page.url contains '/studium/' %}current{% endif %}">Studium und Lehre</a></li>
+  <li><a href="{{site.baseurl}}/programm/aks/mestuta/" class="{% if page.url contains '/mestuta/' %}current{% endif %}">MeStuTa und HoPo</a></li>
  </ul>
 </nav>

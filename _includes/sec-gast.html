@@ -6,10 +6,10 @@
 
 <nav>
  <ul class="nav-sec">
-  <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html">Fachschaft</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/isk/index.html">Fakultät</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/rwth/index.html">RWTH Aachen</a></li>
-  <li><a href="{{site.baseurl}}/gastgeber/aachen/index.html">Stadt Aachen</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/team/index.html" class="{% if page.url contains '/team/' %}current{% endif %}">Team</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html" class="{% if page.url contains '/fachschaft/' %}current{% endif %}">Fachschaft</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/isk/index.html" class="{% if page.url contains '/isk/' %}current{% endif %}">Fakultät</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/rwth/index.html" class="{% if page.url contains '/rwth/' %}current{% endif %}">RWTH Aachen</a></li>
+  <li><a href="{{site.baseurl}}/gastgeber/aachen/index.html" class="{% if page.url contains '/aachen/' %}current{% endif %}">Stadt Aachen</a></li>
  </ul>
 </nav>

@@ -4,9 +4,9 @@
 </ul>
 </nav> -->
 
-<nav class="nav-sec">
- <ul>
- <li><a href="{{site.baseurl}}/kontakt/">Kontakt</a></li>
-  <li><a href="{{site.baseurl}}/kontakt/anreise/">Anreise</a></li>
+<nav>
+ <ul class="nav-sec">
+ <li><a href="{{site.baseurl}}/kontakt/" class="{% if page.url contains '/kontakt/' %}current{% endif %}">Kontakt</a></li>
+  <li><a href="{{site.baseurl}}/kontakt/anreise/" class="{% if page.url contains '/anreise/' %}current{% endif %}">Anreise</a></li>
  </ul>
 </nav>

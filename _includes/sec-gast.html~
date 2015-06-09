@@ -4,8 +4,8 @@
 </ul>
 </nav> -->
 
-<nav class="nav-sec">
- <ul class="nav">
+<nav>
+ <ul class="nav-sec">
   <li><a href="{{site.baseurl}}/gastgeber/team/index.html">Team</a></li>
   <li><a href="{{site.baseurl}}/gastgeber/fachschaft/index.html">Fachschaft</a></li>
   <li><a href="{{site.baseurl}}/gastgeber/isk/index.html">Fakultät</a></li>
