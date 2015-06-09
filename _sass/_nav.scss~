@@ -22,7 +22,6 @@ text-shadow: 0 1px 3px #000;
 .nav-bottom a{
 &:hover{
 text-shadow: 0 1px 3px #000;
-color: #fff;
 }
 &:visited{
 color: #fff;
@@ -66,9 +65,9 @@ footer {
  margin: 0;
  padding: 0;
  list-style-type: none;
- font-weight: default;
+ font-weight: bold;
 a:hover{
-color: #fff;
+color: black;
 text-shadow: 0 1px 3px #000;
 }
 }
