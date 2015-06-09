@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
-<div id="content" class="unit w-7-8">
-{{content}}
+<section>
+<div id="content" class="unit half">
+{% include news.html %}
 </div>
+<div id="content" class="unit half">
+{% inlude main.html %}
+</div>
+</section>

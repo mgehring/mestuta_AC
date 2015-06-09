@@ -1,22 +1,13 @@
 ---
-layout: main
+layout: default
 ---
 
-<h1>Medienstudierendentagung in Aachen</h1>
-<div class="unit half">
-<p>Vom 05. bis 08. Mai 2016 findet an der RWTH Aachen die 12. oder 13. Medienstudierendetagung statt. Das ist die Bundesfachschaftentagung aller Fachschaften aus dem Bereich Medien- und Kommunikationswissenschaft, Publizistik und Journalismus aller Universitäten und Fachhochschulen aus dem deutschsprachigen Raum. Zur Vorbereitung der Tagung hat die ausrichtende Fachschaft, die <a href="{{site.baseurl}}/gastgeber/fachschaft/">Fachschaft Kommunikationswissenschaft der RWTH Aachen</a> diese Homepage erstellt. Hier sind alle Informationen zur Veranstaltung für Interessierte, Teilnehmer und Sponsoren zusammengefasst.</p>
+<section>
+<div id="content" class="unit half">
+{% include news.html %}
 </div>
-
-<div class="unit half">
-<h2>Aktuelle Nachrichten zur Tagung</h2>
-<ul>
- {% for post in site.categories.news limit:5%}
- <li>
-  <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-  {{post.date}}
-  <p>{{post.meta}}</p>
- </li>
- {% endfor %}
-</ul>
+<div id="content" class="unit" width="50%">
+{% include about.html %}
 </div>
+</section>
 

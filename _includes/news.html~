@@ -1,0 +1,10 @@
+<div class="unit half">
+<h2>Aktuelle Nachrichten zur Tagung</h2>
+{% for post in site.categories.news limit:5%}
+<div id="post" class="unit whole"> 
+  <a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a>
+  <p>{{post.date}}</p>
+  <p>{{post.meta}}</p>
+</div>
+ {% endfor %}
+</div>
