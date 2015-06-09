@@ -3,10 +3,10 @@ layout: default
 ---
 
 <section>
-<div id="content" class="unit half">
+<div id="content" class="unit half" margin-right="10px">
 {% include news.html %}
 </div>
-<div id="content" class="unit" width="50%">
+<div id="content" class="unit half">
 {% include about.html %}
 </div>
 </section>

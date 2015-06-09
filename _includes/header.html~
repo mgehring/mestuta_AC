@@ -6,7 +6,7 @@
       </a>
   </h1>
 </div>
-<div class="unit four-fifths hide-on-mobiles">
+<div class="unit four-fifths">
 <h1>Medienstudierendentagung in Aachen</h1>
 {% include nav.html navclass='nav-top'%}
 </div>

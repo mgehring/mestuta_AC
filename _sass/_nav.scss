@@ -64,12 +64,16 @@ footer {
 
 .nav-sec {
  margin: 0;
- padding: 0;
+ padding: 5px;
  list-style-type: none;
  font-weight: bold;
 a:hover{
-color: #00909B;
+background-color: #00909B;
+color: #fff;
+padding: 5px;
+box-shadow:  2px 2px 2px 2px #ccc;
 text-shadow: 0 1px 3px #000;
+border-radius: 10px;
 }
 }
 
