@@ -23,6 +23,11 @@ layout: default
 {% include ter-aks.html %}
 </div>
 {% endif %}
+{% if page.url contains '/ablauf/' %}
+<div class="unit w-1-5" id="nav">
+{% include ter-ablauf.html %}
+</div>
+{% endif %}
 </aside>
 </div>
 </section>

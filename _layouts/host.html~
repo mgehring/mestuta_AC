@@ -20,7 +20,7 @@ layout: default
 </div>
 {% if page.url contains '/aks/' %}
 <div class="unit w-1-5" id="nav">
-Text
+{% include ter-aks.html %}
 </div>
 {% endif %}
 </aside>
