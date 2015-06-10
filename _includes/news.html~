@@ -1,4 +1,3 @@
-<div class="unit half">
 <h2>Aktuelle Nachrichten zur Tagung</h2>
 {% for post in site.categories.news limit:5%}
 <div id="post" class="unit whole"> 
@@ -7,4 +6,3 @@
   <p>{{post.meta}}</p>
 </div>
  {% endfor %}
-</div>
