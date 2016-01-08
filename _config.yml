@@ -1,4 +1,4 @@
 markdown: redcarpet
-baseurl: /aachen
+baseurl: /mestuta_AC
 exclude: ['README.md','other-folder'
 ]
