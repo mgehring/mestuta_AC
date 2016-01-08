@@ -1,0 +1,13 @@
+---
+layout: ak
+topic: studium
+title:  Forderung an unsere Studiengänge - Was bringt der Bachelor in den Medienwissenschaften?
+meta: Bachelorabsolventen sind billig, Bachelorabsolventen sind jung, Bachelorabsolventen sind zu nichts zu gebrauchen. Viele Vorurteile und kritische Stimmen existieren zum gestuften Studiensystem. In den Geisteswissenschaften wird der Bachelor allerdings zum Regelabschluss. Wie sieht die Situation wirklich aus, was erwarten wir von Bachelorstudiengängen und wie sorgen wir dafür, dass diese Erwartungen umgesetzt werden. Solche Fragen sollen erörtert werden und in ein mögliches Positionspapier münden.  
+referent: Arne Nowacki, Universität Erfurt
+ref-meta: Ehem. Sprecher der Konferenz Thüringer Studierendenschaften (KTS) und studiert selbst Kommunikationswissenschaft. Er ist als studentischer Gutachter im Bereich aktiv und hat somit einen guten Überblick über die Kultur des Fachs an den unterschiedlichen Standorten. Sein überregionales Hochschulpolitisches Engagement hilft ihm, dieses Wissen in den politischen Kontext einzubetten.
+date:   0000-02-01
+category: ak-tagung
+---
+<p>Ein Arbeitskreis mit einem tollen Thema, das hier beschrieben wird.</p> 
+
+<p>Hier steht dann auch was dazu, was die Ziele sind usw.</p>

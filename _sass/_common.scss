@@ -4,17 +4,23 @@
   box-sizing: border-box;
 }
 
+body {
+	background-image: url('../img/extra_clean_paper.png')
+}
+
 html {
  margin: 0;
  padding: 0;
- font: normal 100%/1.4 Arial, serif;
+ font: normal 100%/1.4 'Merriweather Sans', serif;
 }
 
 p {
- text-align: justify;
+ 	font-family: 'Merriweather Sans', sans-serif;
+	text-align: justify;
 }
 
 a {
+ 	font-family: 'Merriweather Sans', sans-serif;
  color: #00909B;
  text-decoration: none;
 &:hover{text-decoration: none;}

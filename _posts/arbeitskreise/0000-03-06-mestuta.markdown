@@ -1,0 +1,13 @@
+---
+layout: ak
+topic: studium
+title: Die MeStuTa zukunftssicher aufstellen
+meta: Die Medienstudierendentagung trifft sich regelmäßig seit 2009. Bisher ist viel geleistet worden, es steckt aber noch Potential in der Außendarstellung unserer Arbeitsergebnisse, bspw. über feste Ansprechpartner, ob nun Generalsekretär oder ständiger Ausschuß. Welche weiterführenden Ziele und damit verbundenen neuen Strukturen wir uns konkret geben wollen, soll mit Hilfe der Außensicht des Referenten erarbeitet werden. 
+referent: Eva Grünewald, TU Dortmund
+ref-meta: 
+date:   0000-03-06
+category: ak-tagung
+---
+<p>Ein Arbeitskreis mit einem tollen Thema, das hier beschrieben wird.</p> 
+
+<p>Hier steht dann auch was dazu, was die Ziele sind usw.</p>
