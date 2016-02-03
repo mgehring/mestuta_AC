@@ -1,0 +1,12 @@
+<h2>Ausrichter der Tagung</h2>
+Diesmal wird die Tagung von der Fachschaft Kommunikationswissenschaft der RWTH Aachen ausgerichtet.
+
+
+<h2>Aktuelle Nachrichten zur Tagung</h2>
+{% for post in site.categories.news limit:5%}
+<div id="post" class="unit whole"> 
+  <a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a>
+  <p>{{post.date | date: "%d.%m.%Y" }}</p>
+  <p>{{post.meta}}</p>
+</div>
+ {% endfor %}

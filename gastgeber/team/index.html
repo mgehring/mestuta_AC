@@ -5,14 +5,14 @@ layout: host
 <h1>Das Orga-Team der Tagung</h1>
 
 <p>Hallo Tagungsbesucher, </p>
-<p>wir sind das Orga-Team, bestehend aus Lea Sternberg, Markus Gehring, Sophia Wehmeyer, Fabian Comanns und Katharina Hanheide.</p>
+<p>wir sind das Orga-Team, bestehend aus Lea, Markus, Sophia, Fabian und Katharina.</p>
 <p>Bei Fragen erreicht Ihr uns unter folgender E-Mail-Adresse: mestuta-orga@fskowi.rwth-aachen.de.</p>
 
 <h2>Das Team</h2>
 {% for person in site.categories.team %}
 <div class="unit" style="width:45%" id="person">
 <p><strong>Name: {{person.name}}</strong></p>
-<p>Aufgaben: {{person.job}}</p>
+<img src="{{site.baseurl}}/img/personen/{{person.shortname}}.jpg" alt="{{person.shortname}}" style="width: 2032px; heigth:1354px">
 <p>Email: {{person.mail}}@fskowi.rwth-aachen.de</p>
 </div>
 {% endfor %}
