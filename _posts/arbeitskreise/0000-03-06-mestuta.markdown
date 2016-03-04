@@ -3,8 +3,8 @@ layout: ak
 topic: studium
 title: Die MeStuTa zukunftssicher aufstellen
 meta: Die Medienstudierendentagung trifft sich regelmäßig seit 2009. Bisher ist viel geleistet worden, es steckt aber noch Potential in der Außendarstellung unserer Arbeitsergebnisse, bspw. über feste Ansprechpartner, ob nun Generalsekretär oder ständiger Ausschuß. Welche weiterführenden Ziele und damit verbundenen neuen Strukturen wir uns konkret geben wollen, soll mit Hilfe der Außensicht des Referenten erarbeitet werden. 
-referent: Eva Grünewald, TU Dortmund
-ref-meta: 
+referent: N.N. (StAuB, zugesagt)
+ref-meta: Der StAuB ist der Ständige Ausschuß der BauFak, der BuFaTa der Bauingenieure. Unter vielen Aktiven ist der StAuB berühmt berüchtigt für seine effiziente und ergebnisorientierte Arbeitsweise. Derzeit wird intern noch geklärt, welches Mitglied des StAuB den Workshop für uns übernimmt.
 date:   0000-03-06
 category: ak-tagung
 ---

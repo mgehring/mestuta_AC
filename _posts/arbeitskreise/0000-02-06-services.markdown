@@ -2,9 +2,9 @@
 layout: ak
 topic: studium
 title:   Fachschaftsservices
-meta: Arbeit in Hochschulgremien ist ein Kernelement der Studentenvertretung, Studenten darin aber häufig unerfahren. In diesem Workshop sollen Argumentationsmethoden diskutiert und ein Leitfaden erarbeitet werden, der allen Fachschaften helfen soll, neue Vertreter besser einzuarbeiten. 
-referent: Florian Pranghe, Universität zu Köln
-ref-meta: Koordinatorin des Landes-ASten-Treffen NRW und sowohl dort als auch im fzs aktiv. Sie kennt Hochschulgremien auf allen Ebenen und hat durch ihr Studium des Sozialökonomischen Managements besondere Expertise auf diesem Gebiet.
+meta: Neben diversen Aufgaben, zu denen eine Fachschaft gesetzlich verpflichtet ist, kann sie ihren Studierenden in der Regel ein ganze Portofolio an anderen Dienstleistungen anbieten. Seien das Veranstaltungen zur Weiterbildung oder Freizeitgestaltung, Klausursammlungen, Bibliotheken, Beratung zum Studium u.v.m. Wo aber setzt man an, was ist sinnvoll, was rentiert sich, was kommt bei den Leuten an. Hier sollen Möglichkeiten diskutiert und Best-Practice Beispiele gesammelt und dokumentiert werden.
+referent: Florian Pranghe, Universität zu Köln (zugesagt)
+ref-meta: Florian ist seit vielen Jahren in seiner Fachschaft und der BuFaTa Chemie aktiv. Er ist außerdem bundesweit aktiv und ehem. Vorstand des fzs. Er ist außerdem Teamer und Mitglied im studentischen Akkreditierungspool und ist bundesweit vernetzt.
 date:   0000-02-06
 category: ak-lehre
 ---

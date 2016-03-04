@@ -4,7 +4,7 @@ topic: studium
 title: Masterstudiengänge in Medien- und Kommunikationswissenschaft - Chancen und Potentiale
 meta: Viele Hochschulen werben um sie, die Bachelorabsolventen wollen aber nicht. Welches Potential steckt wirklich in Masterstudiengängen in den Fächern Medien- und Kommunikationswissenschaft, Publizistik und Journalismus. Wie kann man sie attraktiver gestalten. Solche Fragen sollen erörtert werden und in ein mögliches Positionspapier münden.
 referent: Isabella Albert, FH Aachen
-ref-meta:
+ref-meta: Isabella ist aktuelle im Vorstand des fzs und befasst sich dort vor allem mit den Themen Studienreform und Internationale Beziehungen. Sie ist außerdem studentisches Mitglied im Akkreditierungsrat und hat einen großen Überblick über die internationale Studienlandschaft. Sie organisiert und leitet regelmäßig Seminare des fzs zu diversen Themen.
 date:   0000-03-05
 categories: ak-tagung
 ---
