@@ -1,4 +1,4 @@
 markdown: kramdown
-baseurl: /mestuta_AC
+baseurl: 
 exclude: ['README.md','other-folder']
 
