@@ -1,9 +1,0 @@
- <nav id="nav-main">
-  <ul class="nav {{include.navclass}}">
-   <li><a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">Home</a></li>
-   <li><a href="{{site.baseurl}}/gastgeber/" class="{% if page.url contains '/gastgeber/' %}current{% endif %}">Gastgeber</a></li>
-   <li><a href="{{site.baseurl}}/sponsoren/" class="{% if page.url contains '/sponsoren/' %}current{% endif %}">Unterstützer</a></li>
-   <li><a href="{{site.baseurl}}/programm/" class="{% if page.url contains '/programm/' %}current{% endif %}">Programm</a></li>
-   <li><a href="{{site.baseurl}}/kontakt/" class="{% if page.url contains '/kontakt/' %}current{% endif %}">Kontakt</a></li>
-  </ul>
-</nav>

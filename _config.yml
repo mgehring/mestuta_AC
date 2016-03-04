@@ -1,4 +1,4 @@
 markdown: kramdown
-baseurl: 
+baseurl: /aachen
 exclude: ['README.md','other-folder']
 

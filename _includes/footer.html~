@@ -1,5 +1,0 @@
-<div id="footer">
-{% include nav.html navclass='nav-bottom'%}
-<a class="nav-bottom" href="{{site.baseurl}}/index.html">Impressum</a> -- FS Kowi RWTH Aachen -- <a class="nav-bottom" href="{{site.baseurl}}/index.html">Glossar</a>
-</div>
-

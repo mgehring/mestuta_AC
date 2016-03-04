@@ -1,7 +1,0 @@
-<nav>
- <ul class="nav-sec">
-  <li><a href="{{site.baseurl}}/programm/ablauf/mahlzeiten" class="{% if page.url contains '/mahlzeiten/' %}current{% endif %}">Mahlzeiten</a></li>
-  <li><a href="{{site.baseurl}}/programm/ablauf/plena" class="{% if page.url contains '/plena/' %}current{% endif %}">Plena und Orga</a></li>
-  <li><a href="{{site.baseurl}}/programm/ablauf/inhalt/" class="{% if page.url contains '/inhalt/' %}current{% endif %}">Inhalte</a></li>
- </ul>
-</nav>
